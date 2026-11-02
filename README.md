@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:b91c1c,100:f97316&height=190&section=header&text=Davi%20Nunes&fontSize=56&fontColor=fff7ed&fontAlignY=36&desc=DevOps%20Engineer%20%C2%B7%20Kubernetes&descSize=18&descAlignY=58&animation=fadeIn" alt="Davi Nunes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:b91c1c,100:f97316&height=190&section=header&text=Davi%20Nunes&fontSize=60&fontColor=fff7ed&fontAlignY=42&animation=fadeIn" alt="Davi Nunes" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&repeat=false&width=560&lines=DevOps+Engineer+%C2%B7+Linux+%C2%B7+Kubernetes" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&repeat=false&width=560&lines=DevOps+Engineer+%C2%B7+Linux+%C2%B7+Kubernetes" alt="DevOps Engineer · Linux · Kubernetes" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dnnsc/"><img src="https://img.shields.io/badge/LinkedIn-dnnsc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: dnnsc" /></a>
-  <img src="https://img.shields.io/badge/Brazil-🇧🇷-450a0a?style=for-the-badge" alt="Based in Brazil" />
 </p>
 
 ### 🔥 About me
 
-I'm Davi, a DevOps engineer from Brazil. I work with **Linux**, **Kubernetes** and **GitLab CI/CD**: I manage Kubernetes clusters and Linux servers, and I help solve infrastructure problems.
+I'm Davi, from Brazil. Day to day I manage **Kubernetes** clusters and **Linux** servers, build **GitLab CI/CD** pipelines and help teams solve infrastructure problems.
 
 I also build web frontends with **Next.js**, **React** and **TypeScript**: landing pages, sites and dashboards, from the first commit to the cluster they run on.
 
@@ -44,7 +43,7 @@ I also build web frontends with **Next.js**, **React** and **TypeScript**: landi
 
 <br/>
 
-Sou o Davi, engenheiro DevOps do Brasil. Trabalho com **Linux**, **Kubernetes** e **GitLab CI/CD**: gerencio clusters Kubernetes e servidores Linux e ajudo a resolver problemas de infraestrutura.
+Sou o Davi, do Brasil. No dia a dia gerencio clusters **Kubernetes** e servidores **Linux**, monto pipelines no **GitLab CI/CD** e ajudo times a resolver problemas de infraestrutura.
 
 Também construo frontends com **Next.js**, **React** e **TypeScript**: landing pages, sites e dashboards, do primeiro commit até o cluster onde rodam.
 
