@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dnnsc/"><img src="https://img.shields.io/badge/LinkedIn-dnnsc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Brazil-🇧🇷-450a0a?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/dnnsc/"><img src="https://img.shields.io/badge/LinkedIn-dnnsc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: dnnsc" /></a>
+  <img src="https://img.shields.io/badge/Brazil-🇧🇷-450a0a?style=for-the-badge" alt="Based in Brazil" />
 </p>
 
 ### 🔥 About me
@@ -53,5 +53,5 @@ Os projetos acima têm README em inglês e português.
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:b91c1c,100:450a0a&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:b91c1c,100:450a0a&height=110&section=footer" alt="" />
 </p>
