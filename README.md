@@ -20,7 +20,7 @@ I also build web frontends with **Next.js**, **React** and **TypeScript**: landi
 
 ### 🛠️ What I work with
 
-<p align="center"><img src="assets/tools-radar-v2.svg" alt="Tools: Kubernetes, RKE2, Docker, Helm, Flux, Terraform, Ansible, Linux, Proxmox, Azure, Git, GitLab CI, GitHub Actions, Prometheus, Grafana, Python, FastAPI, Go, Bash, PowerShell, TypeScript, React, Next.js, Tailwind CSS, Vite" /></p>
+<p align="center"><img src="assets/tools-radar-trail.svg" alt="Tools: Kubernetes, RKE2, Docker, Helm, Flux, Terraform, Ansible, Linux, Proxmox, Azure, Git, GitLab CI, GitHub Actions, Prometheus, Grafana, Python, FastAPI, Go, Bash, PowerShell, TypeScript, React, Next.js, Tailwind CSS, Vite" /></p>
 
 ### ⚔️ Projects
 
