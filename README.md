@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=DevOps+Engineer+%C2%B7+Linux+%C2%B7+Kubernetes;GitLab+CI%2FCD%2C+from+commit+to+cluster;Keeping+clusters+alive%2C+one+pod+at+a+time;Honor+restored+after+every+green+pipeline" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&repeat=false&width=560&lines=DevOps+Engineer+%C2%B7+Linux+%C2%B7+Kubernetes" alt="typing" />
 </p>
 
 <p align="center">
